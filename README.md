@@ -117,7 +117,7 @@ GET /payments/{paymentId}
 
 Clone the repository
 
-git clone https://github.com/yourusername/payment-simulation-system.git
+git clone https://github.com/deveshpassi/PaymentService-Simulator.git
 
 Navigate into project
 
